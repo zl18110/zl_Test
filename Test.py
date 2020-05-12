@@ -4,3 +4,4 @@
 # @Author  : lary
 # @File    : Test.py
 print(123)
+print(type(5))

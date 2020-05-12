@@ -15,3 +15,7 @@
 
 print('hello world')
 print(2+3)
+a=10
+print(a)
+b=8
+print(b)

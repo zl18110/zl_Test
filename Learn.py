@@ -41,3 +41,4 @@ def my_abs(x):
         return -x
 print(my_abs(99))
 print(my_abs(-99))
+print(my_abs(8))

@@ -34,11 +34,27 @@
 #     return c
 # c=add(4,5)
 # print(c)
-def my_abs(x):
-    if x>0:
-        return x
-    else:
-        return -x
-print(my_abs(99))
-print(my_abs(-99))
-print(my_abs(8))
+# def my_abs(x):
+#     if x>0:
+#         return x
+#     else:
+#         return -x
+# print(my_abs(99))
+# print(my_abs(-99))
+# print(my_abs(8))
+# def sayhio():
+# 	print('hello world')
+# sayhio()
+# def requcr(a,b):
+# 	c=a+b
+# 	return print(c)
+# requcr(2,3)
+# # d=requcr(7,9)
+# # print(d)
+def stu_regist(name,age,country,course):
+	print('---注册学生---')
+	print('name:',name)
+	print('age:',age)
+	print('country:',country)
+	print('course:',course)
+stu_regist('lary','18','usa','python')
